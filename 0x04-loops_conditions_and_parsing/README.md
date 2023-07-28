@@ -1,0 +1,2 @@
+creating bash schript
+
